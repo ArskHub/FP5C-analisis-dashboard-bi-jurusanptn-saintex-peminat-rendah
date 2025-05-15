@@ -39,13 +39,13 @@ Repositori ini berisi aplikasi **dashboard interaktif** berbasis **Streamlit** u
    git clone https://github.com/ArskHub/FP5C-analisis-dashboard-bi-jurusanptn-saintex-peminat-rendah.git
    cd FP5C-analisis-dashboard-bi-jurusanptn-saintex-peminat-rendah
 
-##Install dependensi:
-```bash
-pip install streamlit pandas scikit-learn matplotlib seaborn
+2. ##Install dependensi:
+   ```bash
+   pip install streamlit pandas scikit-learn matplotlib seaborn
 
-##Jalankan aplikasi:
-```bash
-streamlit run app.py
+3. ##Jalankan aplikasi:
+   ```bash
+   streamlit run app.py
 
 📄 Lisensi
 Proyek ini dibuat untuk tujuan edukasi. Silakan digunakan dan dikembangkan dengan tetap mencantumkan sumber.
