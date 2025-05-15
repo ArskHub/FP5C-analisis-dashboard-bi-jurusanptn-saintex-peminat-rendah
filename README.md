@@ -40,9 +40,11 @@ Repositori ini berisi aplikasi **dashboard interaktif** berbasis **Streamlit** u
    cd FP5C-analisis-dashboard-bi-jurusanptn-saintex-peminat-rendah
 
 ##Install dependensi:
+```bash
 pip install streamlit pandas scikit-learn matplotlib seaborn
 
 ##Jalankan aplikasi:
+```bash
 streamlit run app.py
 
 📄 Lisensi
