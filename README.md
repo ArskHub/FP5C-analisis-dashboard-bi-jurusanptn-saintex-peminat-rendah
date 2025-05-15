@@ -40,13 +40,13 @@ This repository contains an interactive dashboard application built with **Strea
    ```bash
    git clone https://github.com/ArskHub/FP5C-analisis-dashboard-bi-jurusanptn-saintex-peminat-rendah.git
    cd FP5C-analisis-dashboard-bi-jurusanptn-saintex-peminat-rendah
-## Install dependencies:
-      ```bash
-      pip install streamlit pandas scikit-learn matplotlib seaborn
+2. ## Install dependencies:
+   ```bash
+   pip install streamlit pandas scikit-learn matplotlib seaborn
 
-## Run the application:
-      ```bash
-      streamlit run app.py
+3. ## Run the application:
+   ```bash
+   streamlit run app.py
 
 📄 License
 This project is developed for educational purposes only.
