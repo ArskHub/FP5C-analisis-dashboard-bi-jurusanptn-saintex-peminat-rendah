@@ -1,0 +1,430 @@
+No,Provinsi,Nama PTN,Jenjang,Jurusan,Jumlah Peminat ,Daya Tampung (Tahun 2025),Rasio Keketatan,Rata-Rata Rasio,Sepi Peminatan,Rata-Rata Gaji Lulusan,Kualitas Prospek Kerja,Prospek Kerja
+1,Aceh,Universitas Syiah Kuala,D3,Budidaya Peternakan,5,60,12,6.65625,FALSE,"Rp9,650,000",BAGUS,Wirausaha
+2,Aceh,Universitas Syiah Kuala,D3,Teknik Listrik,9,40,4.44444,6.65625,TRUE,"Rp9,750,000",BAGUS,Teknisi Peternakan
+3,Aceh,Universitas Syiah Kuala,D4,Kesehatan Hewan,10,30,3,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Teknisi Sistem Energi
+4,Aceh,Universitas Syiah Kuala,S1,Kehutanan,30,120,4,6.65625,TRUE,"Rp14,000,000",BAGUS,Kontraktor Proyek Besar
+5,Aceh,Universitas Syiah Kuala,D3,Teknik Sipil,15,80,5.33333,6.65625,TRUE,"Rp6,000,000",BAGUS,Paramedik Veteriner
+6,Aceh,Universitas Syiah Kuala,D3,Teknik Mesin,16,40,2.5,6.65625,TRUE,"Rp6,850,000",BAGUS,Teknisi Klinik Hewan
+7,Aceh,Universitas Syiah Kuala,D3,Manajemen Informatika,33,80,2.42424,6.65625,TRUE,"Rp5,300,000",KURANG BAGUS,Project Officer
+8,Aceh,Universitas Syiah Kuala,S1,Teknik Geofisika,83,80,0.96386,6.65625,TRUE,"Rp7,500,000",BAGUS,Spesialis GIS
+9,Aceh,Universitas Syiah Kuala,S1,Fisika,52,80,1.53846,6.65625,TRUE,"Rp5,500,000",BAGUS,Pemantau Lingkungan
+10,Aceh,Universitas Syiah Kuala,S1,Proteksi Tanaman,79,80,1.01266,6.65625,TRUE,"Rp9,000,000",BAGUS,Pengawas Proyek Konstruksi
+11,Aceh,Universitas Syiah Kuala,S1,Pemanfaatan Sumber Daya Perikanan,122,120,0.98361,6.65625,TRUE,"Rp6,000,000",BAGUS,Drafter
+12,Aceh,Universitas Malikussaleh,S1,Akuakultur,34,100,2.94118,6.65625,TRUE,"Rp9,000,000",BAGUS,Estimator
+13,Aceh,Universitas Malikussaleh,S1,Ilmu Kelautan,80,100,1.25,6.65625,TRUE,"Rp10,500,000",BAGUS,Engineer
+14,Aceh,Universitas Malikussaleh,S1,Pendidikan Fisika,76,120,1.57895,6.65625,TRUE,"Rp4,000,000",KURANG BAGUS,Teknisi Pabrik Besar
+15,Aceh,Universitas Malikussaleh,S1,Pendidikan Kimia,76,120,1.57895,6.65625,TRUE,"Rp4,000,000",KURANG BAGUS,Web Developer
+16,Aceh,Universitas Malikussaleh,S1,Teknik Arsitektur,148,150,1.01351,6.65625,TRUE,"Rp6,500,000",BAGUS,Software Engineer
+17,Aceh,Universitas Malikussaleh,S1,Pendidikan Vokasional Teknik Mesin,36,60,1.66667,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Geophysicist
+18,Aceh,Universitas Teuku Umar,S1,Agroteknologi,72,90,1.25,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Seismologist
+19,Aceh,Universitas Teuku Umar,S1,Akuakultur,28,36,1.28571,6.65625,TRUE,"Rp5,500,000",BAGUS,Ahli Eksplorasi Bawah Tanah
+20,Aceh,Universitas Teuku Umar,S1,Ilmu Kelautan,39,36,0.92308,6.65625,TRUE,"Rp10,500,000",BAGUS,Spesialis Mitigasi Bencana
+21,Aceh,Universitas Teuku Umar,S1,Sumber Daya Akuatik,11,36,3.27273,6.65625,TRUE,"Rp5,500,000",BAGUS,Peneliti
+22,Aceh,Universitas Teuku Umar,S1,Teknologi Hasil Pertanian,85,108,1.27059,6.65625,TRUE,"Rp6,000,000",BAGUS,Dosen
+23,Aceh,Universitas Teuku Umar,S1,Peternakan ,44,54,1.22727,6.65625,TRUE,"Rp5,250,000",KURANG BAGUS,Teknisi Laboratorium
+24,Aceh,Universitas Samudra,S1,Akuakultur,27,54,2,6.65625,TRUE,"Rp9,000,000",BAGUS,Engineer
+25,Aceh,Universitas Samudra,S1,Biologi,35,108,3.08571,6.65625,TRUE,"Rp5,500,000",BAGUS,Peneliti Tanaman
+26,Aceh,Universitas Samudra,S1,Fisika,11,27,2.45455,6.65625,TRUE,"Rp5,500,000",BAGUS,Quality Control
+27,Aceh,Universitas Samudra,S1,Kimia,27,27,1,6.65625,TRUE,"Rp12,500,000",BAGUS,Peneliti Kelautan
+28,Aceh,Universitas Samudra,S1,Matematika,33,27,0.81818,6.65625,TRUE,"Rp5,500,000",BAGUS,Pengelola Kawasan Konservasi Laut
+29,Aceh,Universitas Samudra,S1,Teknik Industri,185,108,0.58378,6.65625,TRUE,"Rp6,000,000",BAGUS,Quality Control Seafood
+30,Aceh,Universitas Samudra,S1,Teknik Mesin,132,99,0.75,6.65625,TRUE,"Rp6,750,000",BAGUS,Manajer Tambak
+31,Aceh,Universitas Samudra,S1,Teknik Sipil,170,135,0.79412,6.65625,TRUE,"Rp6,000,000",BAGUS,Teknisi Perikanan
+32,Sumatera Barat,Universitas Andalas,S1,Proteksi Tanaman,161,70,0.43478,6.65625,TRUE,"Rp9,000,000",BAGUS,Quality Assurance Industri Seafood
+33,Sumatera Barat,Universitas Negeri Padang,S1,Kimia,260,60,0.23077,6.65625,TRUE,"Rp12,500,000",BAGUS,Peneliti Kelautan
+34,Sumatera Barat,Universitas Negeri Padang,S1,Matematika,211,44,0.20853,6.65625,TRUE,"Rp5,500,000",BAGUS,Pengelola Kawasan Konservasi Laut
+35,Sumatera Barat,Universitas Negeri Padang,S1,Teknologi Pendidikan,295,60,0.20339,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Quality Control Seafood
+36,Sumatera Barat,Universitas Negeri Padang,S1,Fisika,138,44,0.31884,6.65625,TRUE,"Rp5,500,000",BAGUS,Guru
+37,Riau,Universitas Riau,S1,Proteksi Tanaman,77,40,0.51948,6.65625,TRUE,"Rp9,000,000",BAGUS,Dosen
+38,Riau,Universitas Riau,S1,Pemanfaatan Sumber Daya Perikanan,425,161,0.37882,6.65625,TRUE,"Rp6,000,000",BAGUS,Content Creator
+39,Riau,Universitas Riau,S1,Fisika,164,120,0.73171,6.65625,TRUE,"Rp5,500,000",BAGUS,Guru Fisika
+40,Riau,Universitas Riau,S1,Budidaya Perairan,239,160,0.66946,6.65625,TRUE,"Rp5,500,000",BAGUS,Drafter Bangunan
+41,Riau,Universitas Riau,S1,Teknologi hasil Perikanan,198,130,0.65657,6.65625,TRUE,"Rp6,000,000",BAGUS,Konsultan Desain
+42,Kepulauan Riau,Universitas Maritim Raja Ali Haji,S1,Budidaya Perairan,21,31,1.47619,6.65625,TRUE,"Rp5,500,000",BAGUS,Agronom
+43,Kepulauan Riau,Universitas Maritim Raja Ali Haji,S1,Ilmu Kelautan,49,51,1.04082,6.65625,TRUE,"Rp10,500,000",BAGUS,Peneliti
+44,Kepulauan Riau,Universitas Maritim Raja Ali Haji,S1,Manajemen Sumber Daya Perairan,27,49,1.81481,6.65625,TRUE,"Rp6,000,000",BAGUS,Konsultan Pertanian
+45,Kepulauan Riau,Universitas Maritim Raja Ali Haji,S1,Teknik Elektro,56,101,1.80357,6.65625,TRUE,"Rp9,750,000",BAGUS,Manajer Tambak
+46,Kepulauan Riau,Universitas Maritim Raja Ali Haji,S1,Teknologi Hasil Perikanan,19,28,1.47368,6.65625,TRUE,"Rp6,000,000",BAGUS,Teknisi Perikanan
+47,Jambi,Universitas Jambi,S1,Fisika,32,67,2.09375,6.65625,TRUE,"Rp5,500,000",BAGUS,Quality Assurance Industri Seafood
+48,Jambi,Universitas Jambi,S1,Teknik Geofisika,73,38,0.52055,6.65625,TRUE,"Rp7,500,000",BAGUS,Pekerja Industri Ekspor
+49,Jambi,Universitas Jambi,S1,Teknik Kimia,57,33,0.57895,6.65625,TRUE,"Rp7,500,000",BAGUS,Peneliti Kelautan
+50,Jambi,Universitas Jambi,S1,Teknik Geologi,56,36,0.64286,6.65625,TRUE,"Rp8,500,000",BAGUS,Pengelola Kawasan Konservasi Laut
+51,Jambi,Universitas Jambi,S1,Matematika,152,34,0.22368,6.65625,TRUE,"Rp6,000,000",BAGUS,Quality Control Seafood
+52,Jambi,Universitas Jambi,S1,Kimia,32,76,2.375,6.65625,TRUE,"Rp12,500,000",BAGUS,Peneliti Kelautan
+53,Sumatera Selatan,Universitas Sriwijaya,S1,Fisika,124,61,0.49194,6.65625,TRUE,"Rp5,500,000",BAGUS,Manajer Kawasan Konservasi Laut dan Danau
+54,Sumatera Selatan,Universitas Sriwijaya,S1,Budidaya Perairan,115,56,0.48696,6.65625,TRUE,"Rp4,250,000",KURANG BAGUS,Konsultan Pengelolaan Sumber Daya Air
+55,Sumatera Selatan,Universitas Sriwijaya,S1,Teknologi Hasil Perikanan,192,59,0.30729,6.65625,TRUE,"Rp3,350,000",KURANG BAGUS,Quality Control di Industri Pangan
+56,Sumatera Selatan,Universitas Sriwijaya,S1,Proteksi Tanaman,138,57,0.41304,6.65625,TRUE,"Rp9,000,000",BAGUS,Peneliti atau Pengembang Produk Hasil Pertanian
+57,Sumatera Selatan,Universitas Sriwijaya,S1,Matematika,207,60,0.28986,6.65625,TRUE,"Rp6,000,000",BAGUS,Manajer Produksi
+58,Sumatera Selatan,Universitas Sriwijaya,S1,Peternakan ,180,57,0.31667,6.65625,TRUE,"Rp7,000,000",BAGUS,Manajer Peternakan Modern
+59,Sumatera Selatan,Universitas Sriwijaya,S1,Biologi,290,60,0.2069,6.65625,TRUE,"Rp5,600,000",BAGUS,Konsultan Nutrisi Hewan
+60,Bengkulu,Universitas Bengkulu,S1,Fisika,50,59,1.18,6.65625,TRUE,"Rp5,500,000",BAGUS,Teknisi Inseminasi Buatan
+61,Bengkulu,Universitas Bengkulu,S1,Arsitektur,131,20,0.15267,6.65625,TRUE,"Rp6,500,000",BAGUS,Peneliti
+62,Bengkulu,Universitas Bengkulu,S1,Biologi,160,50,0.3125,6.65625,TRUE,"Rp5,600,000",BAGUS,Guru/Dosen
+63,Bengkulu,Universitas Bengkulu,S1,Geofisika,29,26,0.89655,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Spesialis Konservasi Alam
+64,Bengkulu,Universitas Bengkulu,S1,Ilmu Kelautan,96,45,0.46875,6.65625,TRUE,"Rp10,500,000",BAGUS,Analis Laboratorium Bioteknologi
+65,Bengkulu,Universitas Bengkulu,S1,Ilmu Tanah,64,25,0.390625,6.65625,TRUE,"Rp12,000,000",BAGUS,Peneliti
+66,Bengkulu,Universitas Bengkulu,S1,Kimia,103,81,0.786408,6.65625,TRUE,"Rp12,500,000",BAGUS,Dosen
+67,Bengkulu,Universitas Bengkulu,S1,Matematika,82,55,0.670732,6.65625,TRUE,"Rp6,000,000",BAGUS,Teknisi Laboratorium
+68,Bengkulu,Universitas Bengkulu,S1,Proteksi Tanaman,46,25,0.543478,6.65625,TRUE,"Rp9,000,000",BAGUS,Engineer
+69,Bengkulu,Universitas Bengkulu,S1,Sistem Informasi,164,41,0.25,6.65625,TRUE,"Rp8,000,000",BAGUS,Peneliti
+70,Bengkulu,Universitas Bengkulu,S1,Teknik Elektro,127,52,0.409449,6.65625,TRUE,"Rp10,000,000",BAGUS,Pengajar/Guru/Dosen
+71,Bengkulu,Universitas Bengkulu,S1,Statistika,89,25,0.280899,6.65625,TRUE,"Rp6,500,000",BAGUS,Industri Manufaktur dan Energi
+72,Bengkulu,Universitas Bengkulu,S1,Teknik Mesin,125,54,0.432,6.65625,TRUE,"Rp6,750,000",BAGUS,Peneliti
+73,Lampung,Universitas Lampung,S1,Agronomi,196,71,0.362245,6.65625,TRUE,"Rp5,500,000",BAGUS,Pengajar/Guru/Dosen
+74,Lampung,Universitas Lampung,S1,Biologi,214,96,0.448598,6.65625,TRUE,"Rp5,600,000",BAGUS,Aktuaris
+75,Lampung,Universitas Lampung,S1,Biologi Terapan,79,66,0.835443,6.65625,TRUE,"Rp5,600,000",BAGUS,Analis Data
+76,Lampung,Universitas Lampung,S1,Budidaya Perairan,99,46,0.464646,6.65625,TRUE,"Rp4,250,000",KURANG BAGUS,Manajer Proyek
+77,Lampung,Universitas Lampung,S1,Fisika,100,44,0.44,6.65625,TRUE,"Rp5,500,000",BAGUS,Engineer
+78,Lampung,Universitas Lampung,S1,Ilmu Kelautan,94,34,0.361702,6.65625,TRUE,"Rp10,500,000",BAGUS,Konsultan Teknis
+79,Lampung,Universitas Lampung,S1,Ilmu Tanah ,87,60,0.689655,6.65625,TRUE,"Rp12,000,000",BAGUS,Wirausaha Teknopreneur
+80,Lampung,Universitas Lampung,S1,Kimia,107,104,0.971963,6.65625,TRUE,"Rp12,500,000",BAGUS,Manajer Proyek
+81,Lampung,Universitas Lampung,S1,Matematika,109,185,1.697248,6.65625,TRUE,"Rp6,000,000",BAGUS,Engineer
+82,Lampung,Universitas Lampung,S1,Nutrisi dan Teknologi Pakan Ternak,42,94,2.238095,6.65625,TRUE,"Rp7,000,000",BAGUS,Konsultan Teknis
+83,Lampung,Universitas Lampung,S1,Proteksi Tanaman,57,61,1.070175,6.65625,TRUE,"Rp9,000,000",BAGUS,Kontraktor
+84,Lampung,Universitas Lampung,S1,Teknik Geodesi,91,47,0.516484,6.65625,TRUE,"Rp7,500,000",BAGUS,Konsultan Pertanian
+85,Lampung,Universitas Lampung,S1,Teknik Pertanian,203,71,0.349754,6.65625,TRUE,"Rp5,500,000",BAGUS,Pengelola Kebun
+86,Lampung,Universitas Lampung,S1,Teknologi Hasil Pertanian,180,68,0.377778,6.65625,TRUE,"Rp6,000,000",BAGUS,BPP
+87,Lampung,Universitas Lampung,S1,Teknologi Industri Pertanian,143,57,0.398601,6.65625,TRUE,"Rp6,500,000",BAGUS,BKSDA
+88,Lampung,Institut Teknologi Sumatera,S1,Arsitektur,150,99,0.66,6.65625,TRUE,"Rp6,500,000",BAGUS,Peneliti
+89,Lampung,Institut Teknologi Sumatera,S1,Arsitektur Lanskap,171,71,0.415205,6.65625,TRUE,"Rp6,500,000",BAGUS,Pengajar/Guru/Dosen
+90,Lampung,Institut Teknologi Sumatera,S1,Biologi,146,55,0.376712,6.65625,TRUE,"Rp5,600,000",BAGUS,Industri Manufaktur dan Energi
+91,Lampung,Institut Teknologi Sumatera,S1,Fisika,67,23,0.343284,6.65625,TRUE,"Rp5,500,000",BAGUS,Peneliti
+92,Lampung,Institut Teknologi Sumatera,S1,Kimia,109,65,0.59633,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pengajar/Guru/Dosen
+93,Lampung,Institut Teknologi Sumatera,S1,Matematika,146,63,0.431507,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Aktuaris
+94,Lampung,Institut Teknologi Sumatera,S1,Sains Atmosfir dan Keplanetan,94,64,0.680851,6.65625,TRUE,"Rp5,500,000",BAGUS,Analis Data
+95,Lampung,Institut Teknologi Sumatera,S1,Teknik Biosistem,89,83,0.932584,6.65625,TRUE,"Rp5,500,000",BAGUS,Desainer E-Learning
+96,Lampung,Institut Teknologi Sumatera,S1,Teknik Fisika,90,33,0.366667,6.65625,TRUE,"Rp6,000,000",BAGUS,Pengembang Konten Pendidikan Digital
+97,Lampung,Institut Teknologi Sumatera,S1,Teknik Geologi,114,64,0.561404,6.65625,TRUE,"Rp6,500,000",BAGUS,Edukator
+98,Lampung,Institut Teknologi Sumatera,S1,Teknik Geomatika,182,84,0.461538,6.65625,TRUE,"Rp6,000,000",BAGUS,Peneliti
+99,Lampung,Institut Teknologi Sumatera,S1,Teknik Kelautan,133,75,0.56391,6.65625,TRUE,"Rp6,000,000",BAGUS,Dosen
+100,Lampung,Institut Teknologi Sumatera,S1,Teknik Material,72,82,1.138889,6.65625,TRUE,"Rp6,000,000",BAGUS,Teknisi Laboratorium
+101,Lampung,Institut Teknologi Sumatera,S1,Teknik Sistem Energi,117,45,0.384615,6.65625,TRUE,"Rp6,000,000",BAGUS,Engineer
+102,Bangka Belitung,Universitas Bangka Belitung,S1,Fisika,11,13,1.181818,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Konsultan Pertanian
+103,Bangka Belitung,Universitas Bangka Belitung,S1,Perikanan Tangkap,20,19,0.95,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Pengelola Kebun
+104,Bangka Belitung,Universitas Bangka Belitung,S1,Matematika,57,36,0.63158,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,BPP
+105,Bangka Belitung,Universitas Bangka Belitung,S1,Kimia,44,23,0.52273,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,BKSDA
+106,Bangka Belitung,Universitas Bangka Belitung,S1,Akuakultur,45,52,1.15556,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Peneliti Kelautan
+107,Bangka Belitung,Universitas Bangka Belitung,S1,Ilmu Kelautan,60,40,0.66667,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pengelola Kawasan Konservasi Laut
+108,Bangka Belitung,Universitas Bangka Belitung,S1,Teknik Mesin,66,30,0.45455,6.65625,TRUE,"Rp6,000,000",BAGUS,Quality Control Seafood
+109,Bangka Belitung,Universitas Bangka Belitung,S1,Manajemen Sumber Daya Perairan,68,43,0.63235,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Peneliti
+110,Bangka Belitung,Universitas Bangka Belitung,S1,Biologi,74,30,0.40541,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Dosen
+111,Bangka Belitung,Universitas Bangka Belitung,S1,Ilmu Politik,96,32,0.33333,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Teknisi Laboratorium
+112,Bangka Belitung,Universitas Bangka Belitung,S1,Teknik Elektro,65,30,0.46154,6.65625,TRUE,"Rp6,000,000",BAGUS,Engineer
+113,DKI Jakarta,Universitas Negeri Jakarta,S1,Pendidikan Fisika,102,20,0.19608,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Manajer Tambak
+114,DKI Jakarta,Universitas Negeri Jakarta,S1,Pendidikan Vokasional Teknik Elektronika,88,16,0.18182,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Konsultan Budidaya Perairan
+115,DKI Jakarta,Universitas Negeri Jakarta,S1,Pendidikan Vokasional Teknik Mesin,121,24,0.19835,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Peneliti Akuakultur
+116,DKI Jakarta,Universitas Indonesia (Jakarta),S1,Fisika,134,28,0.20896,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Dosen
+117,DKI Jakarta,Universitas Indonesia (Jakarta),S1,Biologi,165,24,0.14545,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Wirausahawan di Bidang Budidaya Perairan
+118,DKI Jakarta,Universitas Indonesia (Jakarta),S1,Geofisika,137,17,0.12409,6.65625,TRUE,"Rp6,000,000",BAGUS,Pegawai di Dinas Perikanan
+119,DKI Jakarta,UPN Veteran Jakarta,S1,Teknik Perkapalan,192,14,0.07292,6.65625,TRUE,"Rp6,000,000",BAGUS,Pengolahan Hasil Laut
+120,DKI Jakarta,UPN Veteran Jakarta,D3,Sistem Informasi,175,28,0.16,6.65625,TRUE,"Rp6,000,000",BAGUS,QC Industri Perikanan
+121,Banten,Universitas Sultan Ageng Tirtayasa,S1,Pendidikan Vokasional Teknik Mesin,69,31,0.44928,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Ekspor Hasil Perikanan
+122,Banten,Universitas Sultan Ageng Tirtayasa,S1,Pendidikan Vokasional Teknik Elektronika,80,30,0.375,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Manajer Tambak
+123,Banten,Universitas Sultan Ageng Tirtayasa,S1,Pendidikan Fisika,106,31,0.29245,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Konsultan Budidaya Perairan
+124,Jawa Barat,Universitas Padjajaran,S1,Perikanan PSDKU Pangandaran,74,35,0.47297,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Peneliti Akuakultur
+125,Jawa Barat,Universitas Padjajaran,S1,Peternakan PSDKU Pangandaran,55,20,0.36364,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Dosen
+126,Jawa Barat,Universitas Padjajaran,D4,Agroteknopreneur,64,20,0.3125,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Wirausahawan di Bidang Budidaya Perairan
+127,Jawa Barat,Institut Teknologi Bandung,S1,Sekolah Ilmu dan Teknologi Hayati - Kampus Cirebon (SITH-C),60,13,0.21667,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pegawai di Dinas Perikanan
+128,Jawa Barat,Institut Teknologi Bandung,S1,Fakultas Ilmu dan Teknologi Kebumian - Kampus Cirebon (FITB-C),204,25,0.12255,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Peneliti Kelautan
+129,Jawa Barat,Universitas Siliwangi,S1,Teknologi Pangan dan Hasil Pertanian,192,14,0.07292,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pengelola Kawasan Konservasi Laut
+130,Jawa Barat,Universitas Siliwangi,S1,Teknik Elektro,188,24,0.12766,6.65625,TRUE,"Rp6,000,000",BAGUS,Quality Control Seafood
+131,Jawa Barat,Universitas Siliwangi,S1,Pendidikan Fisika,125,50,0.4,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Pengelola Sumber Perairan
+132,Jawa Barat,Universitas Siliwangi,S1,Agroteknologi,284,34,0.11972,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Konservasi
+133,Jawa Barat,Universitas Siliwangi,S1,Pendidikan Biologi,292,38,0.13014,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Lembaga Pemerintah
+134,Jawa Tengah,Universitas Sebelas Maret,S1,Fisika,74,27,0.36486,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Teknisi Listrik/Elektronika
+135,Jawa Tengah,Universitas Sebelas Maret,S1,Pendidikan Teknik Bangunan,72,27,0.375,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Pegawai di PLN atau Sektor Energi
+136,Jawa Tengah,Universitas Diponegoro,S1,Fisika,174,63,0.36207,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Dosen
+137,Jawa Tengah,Universitas Diponegoro,S1,Akuakultur,167,25,0.1497,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Pengolahan Hasil Laut
+138,Jawa Tengah,Universitas Diponegoro,S1,Perikanan Tangkap,93,22,0.23656,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,QC Industri Perikanan
+139,Jawa Tengah,Universitas Diponegoro,S1,Teknologi Hasil Perikanan,144,24,0.16667,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Ekspor Hasil Perikanan
+140,Jawa Tengah,Universitas Diponegoro,D4,Teknologi Rekayasa Kimia Industri,177,26,0.14689,6.65625,TRUE,"Rp5,500,000",BAGUS,Peneliti
+141,Jawa Tengah,Universitas Diponegoro,D4,Teknologi Rekayasa Otomasi,133,26,0.19549,6.65625,TRUE,"Rp5,500,000",BAGUS,Dosen
+142,Jawa Tengah,Universitas Diponegoro,D4,Rekayasa Perancangan Mekanik,89,26,0.29213,6.65625,TRUE,"Rp6,000,000",BAGUS,Teknisi Laboratorium
+143,Jawa Tengah,Universitas Diponegoro,D4,Teknologi Rekayasa Konstruksi Perkapalan,99,24,0.24242,6.65625,TRUE,"Rp6,000,000",BAGUS,Engineer
+144,Jawa Tengah,Universitas Diponegoro,D4,Teknik Listrik Industri,145,26,0.17931,6.65625,TRUE,"Rp6,000,000",BAGUS,Geophysicist
+145,Jawa Tengah,Universitas Jenderal Soedirman,S1,Fisika,126,88,0.69841,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Seismologist
+146,Jawa Tengah,Universitas Jenderal Soedirman,S1,Akuakultur,156,80,0.51282,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Ahli Eksplorasi Bawah Tanah
+147,Jawa Tengah,Universitas Jenderal Soedirman,S1,Mikrobiologi,104,32,0.30769,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Spesialis Mitigasi Bencana
+148,Jawa Tengah,Universitas Jenderal Soedirman,S1,Biologi Terapan,42,32,0.7619,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Peneliti
+149,Jawa Tengah,Universitas Jenderal Soedirman,S1,Proteksi Tanaman,41,28,0.68293,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pengajar/Guru/Dosen
+150,Jawa Tengah,Universitas Jenderal Soedirman,S1,Statistika,206,36,0.17476,6.65625,TRUE,"Rp5,500,000",BAGUS,Industri Manufaktur dan Energi
+151,Jawa Tengah,Universitas Jenderal Soedirman,D3,Budi Daya Ikan,19,48,2.52632,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Geologist
+152,Jawa Tengah,Universitas Jenderal Soedirman,D3,Agribisnis,68,48,0.70588,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Eksplorasi Tambang
+153,Jawa Tengah,Universitas Jenderal Soedirman,D3,Perancangan Sumber Daya Lahan,29,36,1.24138,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Konsultan Geoteknik
+154,Jawa Tengah,Universitas Jenderal Soedirman,D3,Budi Daya Ternak,54,92,1.7037,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Peneliti
+155,Daerah Istimewa Yogyakarta,Universitas Negeri Yogyakarta,S1,Pendidikan Teknik Elektronika,25,8,0.32,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Pengajar/Guru/Dosen
+156,Daerah Istimewa Yogyakarta,Universitas Negeri Yogyakarta,S1,Pendidikan Fisika,73,20,0.27397,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Aktuaris
+157,Daerah Istimewa Yogyakarta,Universitas Negeri Yogyakarta,S1,Pendidikan Teknik Elektro,64,16,0.25,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Analis Data
+158,Daerah Istimewa Yogyakarta,Universitas Negeri Yogyakarta,S1,Pendidikan Teknik Sipil & Perencanaan,87,16,0.18391,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Peneliti
+159,Daerah Istimewa Yogyakarta,Universitas Negeri Yogyakarta,S1,Pendidikan Teknik Mekatronika,42,16,0.38095,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Pengajar/Guru/Dosen
+160,Daerah Istimewa Yogyakarta,Universitas Negeri Yogyakarta,D4,Teknik Elektronika,81,16,0.19753,6.65625,TRUE,"Rp6,000,000",BAGUS,Industri Manufaktur dan Energi
+161,Daerah Istimewa Yogyakarta,Universitas Negeri Yogyakarta,D4,Teknik Elektro ,49,8,0.16327,6.65625,TRUE,"Rp6,000,000",BAGUS,Peneliti
+162,Daerah Istimewa Yogyakarta,Universitas Negeri Yogyakarta,D4,Teknik Sipil,94,8,0.08511,6.65625,TRUE,"Rp6,000,000",BAGUS,Dosen
+163,Daerah Istimewa Yogyakarta,Universitas Gadjah Mada,S1,Pembangunan Wilayah,116,24,0.2069,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Teknisi Laboratorium
+164,Daerah Istimewa Yogyakarta,Universitas Gadjah Mada,S1,Fisika,97,21,0.21649,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Engineer
+165,Daerah Istimewa Yogyakarta,Universitas Gadjah Mada,S1,Geofisika,109,21,0.19266,6.65625,TRUE,"Rp6,000,000",BAGUS,Manajer Tambak
+166,Daerah Istimewa Yogyakarta,Universitas Gadjah Mada,S1,Elektronika dan Instrumentasi,145,27,0.18621,6.65625,TRUE,"Rp6,000,000",BAGUS,Konsultan Budidaya Perairan
+167,Daerah Istimewa Yogyakarta,Universitas Gadjah Mada,S1,Ilmu Tanah,98,23,0.23469,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Peneliti Akuakultur
+168,Daerah Istimewa Yogyakarta,Universitas Gadjah Mada,S1,Agronomi,133,24,0.18045,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Dosen
+169,Daerah Istimewa Yogyakarta,Universitas Gadjah Mada,S1,Proteksi Tanaman (Ilmu Hama dan Penyakit Tumbuhan).,83,23,0.27711,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Wirausahawan di Bidang Budidaya Perairan
+170,Daerah Istimewa Yogyakarta,Universitas Gadjah Mada,S1,Teknologi Hasil Perikanan,63,23,0.36508,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pegawai di Dinas Perikanan
+171,Daerah Istimewa Yogyakarta,Universitas Gadjah Mada,D4,Teknologi Rekayasa Instrumentasi dan Kontrol,89,22,0.24719,6.65625,TRUE,"Rp5,500,000",BAGUS,Pengolahan Hasil Laut
+172,Daerah Istimewa Yogyakarta,Universitas Gadjah Mada,D4,Teknologi Rekayasa Internet,187,29,0.15508,6.65625,TRUE,"Rp5,500,000",BAGUS,QC Industri Perikanan
+173,Daerah Istimewa Yogyakarta,Universitas Gadjah Mada,D4,Teknik Pengelolaan dan Pemeliharaan Infrastruktur Sipil,128,18,0.140625,6.65625,TRUE,"Rp5,500,000",BAGUS,Ekspor Hasil Perikanan
+174,Daerah Istimewa Yogyakarta,Universitas Gadjah Mada,D4,Teknologi Rekayasa Mesin,125,18,0.144,6.65625,TRUE,"Rp6,000,000",BAGUS,Konsultan Pertanian
+175,Jawa Timur,Universitas Airlangga,S1,Fisika,68,24,0.35294,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pengelola Kebun
+176,Jawa Timur,Universitas Airlangga,S1,Akuakultur (FIKKIA Banyuwangi),29,23,0.7931,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,BPP
+177,Jawa Timur,Universitas Airlangga,D4,Teknologi Rekayasa Instrumentasi dan Kontrol,87,21,0.24138,6.65625,TRUE,"Rp5,500,000",BAGUS,BKSDA
+178,Jawa Timur,Universitas Brawijaya,S1,Manajemen Sumberdaya Perairan,170,40,0.23529,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Peneliti
+179,Jawa Timur,Universitas Brawijaya,S1,Budidaya Perairan,115,36,0.31304,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Pengajar/Guru/Dosen
+180,Jawa Timur,Universitas Brawijaya,S1,Teknik pengairan,169,37,0.21893,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Aktuaris
+181,Jawa Timur,Universitas Brawijaya,S1,Fisika,115,22,0.1913,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Analis Data
+182,Jawa Timur,Universitas Brawijaya,S1,Pemanfaatan Sumberdaya Perikanan,105,35,0.33333,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Manajer Peternakan Modern
+183,Jawa Timur,Universitas Brawijaya,S1,Instrumentasi,99,20,0.20202,6.65625,TRUE,"Rp5,500,000",BAGUS,Konsultan Nutrisi Hewan
+184,Jawa Timur,Universitas Brawijaya,S1,Pendidikan teknologi Informasi,122,36,0.29508,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Teknisi Inseminasi Buatan
+185,Jawa Timur,Institut Teknologi Sepuluh Nopember,S1,Fisika,88,68,0.77273,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Peneliti
+186,Jawa Timur,Institut Teknologi Sepuluh Nopember,S1,Biologi,132,36,0.27273,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Guru/Dosen
+187,Jawa Timur,Institut Teknologi Sepuluh Nopember,S1,Teknik Geomatika,173,26,0.15029,6.65625,TRUE,"Rp6,000,000",BAGUS,Spesialis Konservasi Alam
+188,Jawa Timur,Institut Teknologi Sepuluh Nopember,S1,Teknik Transportasi Laut,116,16,0.13793,6.65625,TRUE,"Rp6,000,000",BAGUS,Analis Laboratorium Bioteknologi
+189,Jawa Timur,Institut Teknologi Sepuluh Nopember,S1,Tek. Sist. Perkapalan ,66,12,0.18182,6.65625,TRUE,"Rp6,000,000",BAGUS,Peneliti
+190,Jawa Timur,Institut Teknologi Sepuluh Nopember,S1,Teknik Telekomunikasi,96,16,0.16667,6.65625,TRUE,"Rp6,000,000",BAGUS,Dosen
+191,Jawa Timur,Institut Teknologi Sepuluh Nopember,S1,Sains Analitik dan Instrumentasi Kimia,70,12,0.17143,6.65625,TRUE,"Rp5,500,000",BAGUS,Teknisi Laboratorium
+192,Jawa Timur,Institut Teknologi Sepuluh Nopember,D4,Teknologi Rekayasa Konversi Energi,86,23,0.26744,6.65625,TRUE,"Rp5,500,000",BAGUS,Engineer
+193,Bali,Universitas Udayana,S1,Teknik Pertanian dan Biosistem,19,21,1.10526,6.65625,TRUE,"Rp5,500,000",BAGUS,Perencanaan Bangunan
+194,Bali,Universitas Udayana,S1,Teknologi Industri Pertanian,55,27,0.49091,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Desain Interior
+195,Bali,Universitas Udayana,S1,Biologi,48,21,0.4375,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Konstruksi
+196,Bali,Universitas Udayana,S1,Kimia,45,24,0.53333,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Peneliti
+197,Bali,Universitas Udayana,S1,Fisika,27,30,1.11111,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Guru/Dosen
+198,Bali,Universitas Udayana,S1,Matematika,55,33,0.6,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Spesialis Konservasi Alam
+199,Bali,Universitas Udayana,S1,Peternakan,75,60,0.8,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Analis Laboratorium Bioteknologi
+200,Bali,Universitas Udayana,S1,Agroekoteknologi,88,63,0.71591,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Eksplorasi Minyak/Gas
+201,Bali,Universitas Udayana,S1,Arsitektur Lanskap,39,12,0.30769,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Mitigasi Bencana
+202,Bali,Universitas Udayana,S1,Ilmu Kelautan,69,42,0.6087,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Analisis Gempa
+203,Bali,Universitas Pendidikan Ganesha,S1,Pendidikan Biologi,50,36,0.72,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Peneliti Kelautan
+204,Bali,Universitas Pendidikan Ganesha,S1,Pendidikan Kimia,22,24,1.09091,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Pengelola Kawasan Konservasi Laut
+205,Bali,Universitas Pendidikan Ganesha,S1,Pendidikan Fisika,14,24,1.71429,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Quality Control Seafood
+206,Bali,Universitas Pendidikan Ganesha,S1,Pendidikan Teknik Elektro,17,26,1.52941,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Surveyor Tanah
+207,Bali,Universitas Pendidikan Ganesha,S1,Pendidikan Teknik Mesin,28,30,1.07143,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Teknisi Konservasi Lingkungan
+208,Bali,Universitas Pendidikan Ganesha,S1,Pendidikan IPA,42,36,0.85714,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Peneliti
+209,Bali,Universitas Pendidikan Ganesha,S1,Kimia,14,24,1.71429,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,"Instansi Pemerintah (Kementerian LHK, BPN, dll)"
+210,Bali,Universitas Pendidikan Ganesha,S1,Matematika,15,24,1.6,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Penyuluh Pertanian
+211,Bali,Universitas Pendidikan Ganesha,S1,Biologi,25,24,0.96,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Research dan Development
+212,Bali,Universitas Pendidikan Ganesha,S1,Akuakultur,16,36,2.25,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Quality Assurance & Quality Control
+213,Bali,Universitas Pendidikan Ganesha,S1,Fisika,6,24,4,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,System Analyst
+214,Bali,Universitas Pendidikan Ganesha,S1,Geografi,19,48,2.52632,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Dosen
+215,Bali,Universitas Pendidikan Ganesha,D4,Teknologi Rekayasa Perangkat Lunak,11,22,2,6.65625,TRUE,"Rp6,000,000",BAGUS,Peneliti
+216,Bali,Universitas Pendidikan Ganesha,D4,Bioteknologi Perikanan,4,24,6,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pengajar/Guru/Dosen
+217,Nusa Tenggara Barat,Universitas Mataran,S1,Fisika,27,12,0.44444,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Industri Manufaktur dan Energi
+218,Nusa Tenggara Barat,Universitas Mataran,S1,Kimia,63,12,0.19048,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Peneliti
+219,Nusa Tenggara Barat,Universitas Mataran,S1,Pendidikan Kimia,69,16,0.23188,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Pengajar/Guru/Dosen
+220,Nusa Tenggara Barat,Universitas Mataran,S1,Pendidikan Fisika,62,16,0.25806,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Aktuaris
+221,Nusa Tenggara Barat,Universitas Mataran,S1,Budidaya Perairan,65,18,0.27692,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Analis Data
+222,Nusa Tenggara Barat,Universitas Mataran,S1,Ilmu Tanah,80,22,0.275,6.65625,TRUE,"Rp6,000,000",BAGUS,Konsultan Pertanian
+223,Nusa Tenggara Barat,Universitas Mataran,S1,Ilmu Kelautan,83,20,0.24096,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Pengelola Kebun
+224,Nusa Tenggara Barat,Universitas Mataran,D3,Agribisnis Peternakan,25,15,0.6,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,BPP
+225,Nusa Tenggara Timur,Universitas Nusa Cendana,S1,Fisika,22,20,0.90909,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,BKSDA
+226,Nusa Tenggara Timur,Universitas Nusa Cendana,S1,Kimia,40,23,0.575,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,System Analyst
+227,Nusa Tenggara Timur,Universitas Nusa Cendana,S1,Pendidikan Fisika,70,28,0.4,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,IT Consultant
+228,Nusa Tenggara Timur,Universitas Nusa Cendana,S1,Pendidikan Kimia,55,25,0.4545,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Data Analyst
+229,Nusa Tenggara Timur,Universitas Nusa Cendana,S1,Pendidikan Teknik Bangunan ,20,20,1,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Software Developer
+230,Nusa Tenggara Timur,Universitas Nusa Cendana,S1,Pendidikan Teknik Mesin,40,17,0.425,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Teknisi Listrik/Elektronika
+231,Nusa Tenggara Timur,Universitas Nusa Cendana,S1,Pendidikan Teknik Elektro,36,20,0.5556,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Pegawai di PLN atau Sektor Energi
+232,Nusa Tenggara Timur,Universitas Nusa Cendana,S1,Budidaya Perikanan,47,25,0.5319,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Dosen
+233,Nusa Tenggara Timur,Universitas Nusa Cendana,S1,Manajemen Sumber Daya Perairan,27,25,0.9259,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,"Statistisi (BPS, Kemenkes, Bappenas)"
+234,Nusa Tenggara Timur,Universitas Nusa Cendana,S1,Ilmu Politik,71,39,0.5493,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Data Analyst
+235,Nusa Tenggara Timur,Universitas Timor,S1,Agroteknologi,17,36,2.1176,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Risk Analyst
+236,Nusa Tenggara Timur,Universitas Timor,S1,Biologi,19,30,1.5789,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Quantitative Analyst
+237,Nusa Tenggara Timur,Universitas Timor,S1,Matematika,12,18,1.5,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Business Intelligence
+238,Nusa Tenggara Timur,Universitas Timor,S1,Kimia,13,24,1.8462,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Marketing Analyst
+239,Nusa Tenggara Timur,Universitas Timor,S1,Agribisnis,26,39,1.5,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Product Analyst
+240,Nusa Tenggara Timur,Universitas Timor,S1,Peternakan,27,36,1.3333,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Manajer Proyek
+241,Kalimantan Barat,Universitas Tanjungpura,S1,Fisika,24,28,1.1667,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Engineer
+242,Kalimantan Barat,Universitas Tanjungpura,S1,Kimia ,67,48,0.7164,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Konsultan Teknis
+243,Kalimantan Barat,Universitas Tanjungpura,S1,Biologi,67,24,0.3582,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Wirausaha Teknopreneur
+244,Kalimantan Barat,Universitas Tanjungpura,S1,Matematika,60,28,0.4667,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Peneliti
+245,Kalimantan Barat,Universitas Tanjungpura,S1,Pendidikan Fisika,42,24,0.5714,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Dosen
+246,Kalimantan Barat,Universitas Tanjungpura,S1,Pendidikan Kimia,74,20,0.2703,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Teknisi Laboratorium
+247,Kalimantan Barat,Universitas Tanjungpura,S1,Geofisika,27,28,1.037,6.65625,TRUE,"Rp6,000,000",BAGUS,Engineer
+248,Kalimantan Barat,Universitas Tanjungpura,S1,Ilmu Kelautan,43,28,0.6512,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Peneliti
+249,Kalimantan Barat,Universitas Tanjungpura,S1,Peternakan,45,12,0.2667,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Guru/Dosen
+250,Kalimantan Barat,Universitas Tanjungpura,S1,Teknik Kelautan,34,18,0.5294,6.65625,TRUE,"Rp6,000,000",BAGUS,Spesialis Konservasi Alam
+251,Kalimantan Barat,Universitas Tanjungpura,S1,Teknik Kimia,35,15,0.4286,6.65625,TRUE,"Rp6,000,000",BAGUS,Analis Laboratorium Bioteknologi
+252,Kalimantan Tengah,Universitas Palangka Raya,S1,Kehutanan,120,60,0.5,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Peneliti
+253,Kalimantan Tengah,Universitas Palangka Raya,S1,Budidaya Perairan,10,9,0.9,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Guru/Dosen
+254,Kalimantan Tengah,Universitas Palangka Raya,S1,Manajemen Sumberdaya Perairan,25,15,0.6,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Spesialis Konservasi Alam
+255,Kalimantan Tengah,Universitas Palangka Raya,S1,Pendidikan Fisika,15,12,0.8,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Analis Laboratorium Bioteknologi
+256,Kalimantan Tengah,Universitas Palangka Raya,S1,Pendidikan Teknik Mesin,30,15,0.5,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Manajer Tambak
+257,Kalimantan Tengah,Universitas Palangka Raya,S1,Pendidikan Kimia,11,12,1.0909,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Konsultan Budidaya Perairan
+258,Kalimantan Tengah,Universitas Palangka Raya,S1,Ilmu Lingkungan,43,15,0.3488,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Peneliti Akuakultur
+259,Kalimantan Tengah,IAIN Palangka Raya,S1,"	Tadris Fisika",82,34,0.4146,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Dosen
+260,Kalimantan Tengah,Poltekkes Kemenkes Palangka Raya,D3,"	Keperawatan",70,80,1.1429,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Wirausahawan di Bidang Budidaya Perairan
+261,Kalimantan Tengah,IAIN Palangka Raya,S1,Tadris Biologi,65,28,0.4308,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Pegawai di Dinas Perikanan
+262,Kalimantan Tengah,IAIN Palangka Raya,S1,Tadris Kimia,70,30,0.4286,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Peneliti
+263,Kalimantan Tengah,IAIN Palangka Raya,S1,Tadris Matematika,60,25,0.4167,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Dosen
+264,Kalimantan Tengah,IAIN Palangka Raya,S1,Tadris Bahasa Inggris,55,20,0.3636,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Teknisi Laboratorium
+265,Kalimantan Selatan,Universitas Lambung Mangkurat,S1,Kehutanan,227,68,0.2996,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Engineer
+266,Kalimantan Selatan,Universitas Lambung Mangkurat,S1,Perikanan Tangkap,7,25,3.5714,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Peneliti Kelautan
+267,Kalimantan Selatan,Universitas Lambung Mangkurat,S1,Pendidikan Fisika,30,35,1.1667,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Pengelola Kawasan
+268,Kalimantan Selatan,Universitas Lambung Mangkurat,S1,Akuakultur,31,25,0.8065,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Pengelola Kawasan Konservasi Laut
+269,Kalimantan Selatan,Universitas Lambung Mangkurat,S1,Pendidikan Kimia,29,30,1.0345,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Quality Control Seafood
+270,Kalimantan Selatan,Universitas Lambung Mangkurat,S1,Proteksi Tanaman,20,30,1.5,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pengelola Sumber Daya Alam
+271,Kalimantan Selatan,Universitas Lambung Mangkurat,S1,Fisika,14,30,2.1429,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Teknisi Energi Terbarukan
+272,Kalimantan Selatan,Universitas Lambung Mangkurat,S1,Teknologi Hasil Perikanan,10,30,3,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Teknisi Pembangkit Listrik
+273,Kalimantan Selatan,Universitas Lambung Mangkurat,S1,Kimia,48,30,0.625,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pekerja di Industri Telekomunikasi
+274,Kalimantan Selatan,Universitas Lambung Mangkurat,S1,Pendidikan Seni Pertunjukan,20,30,1.5,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Insinyur Jaringan
+275,Kalimantan Selatan,Universitas Islam Negeri Antasari,S1,Teknologi Informasi,91,36,0.3956,6.65625,TRUE,"Rp6,000,000",BAGUS,Konsultan Sistem Energi
+277,Kalimantan Selatan,Politeknik Negeri Banjarmasin (Poliban),D3,Teknik Bangunan Rawa,18,30,1.6667,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pengelola Proyek Infrastruktur
+278,Kalimantan Selatan,Politeknik Negeri Banjarmasin (Poliban),D3,Teknologi Rekayasa Konstruksi Jalan dan Jembatan,40,30,0.75,6.65625,TRUE,"Rp5,500,000",BAGUS,Pengawas Keamanan Infrastruktur
+279,Kalimantan Selatan,Politeknik Negeri Banjarmasin (Poliban),D3,Teknologi Rekayasa Pembangkit Energi,20,30,1.5,6.65625,TRUE,"Rp5,500,000",BAGUS,Analis Lingkungan
+280,Kalimantan Selatan,Politeknik Negeri Banjarmasin (Poliban),D4,Sistem Informasi Kota Cerdas,70,30,0.4286,6.65625,TRUE,"Rp6,000,000",BAGUS,Konsultan Energi Terbarukan
+282,Kalimantan Timur,Universitas Mulawarman (UNMUL),S1,Statistika,96,39,0.4063,6.65625,TRUE,"Rp5,500,000",BAGUS,Peneliti Sumber Daya Alam
+283,Kalimantan Timur,Universitas Mulawarman (UNMUL),S1,Biologi,57,40,0.70175,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Manajer Konstruksi
+284,Kalimantan Timur,Universitas Mulawarman (UNMUL),S1,Kimia,50,40,0.8,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Spesialis Pengelolaan Air
+285,Kalimantan Timur,Universitas Mulawarman (UNMUL),S1,Fisika,45,40,0.8889,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Ahli Pengelolaan Sampah
+286,Kalimantan Timur,Institut Teknologi Kalimantan (ITK),S1,Teknik Perkapalan,42,48,1.1429,6.65625,TRUE,"Rp6,000,000",BAGUS,Pekerja di Industri Pengolahan Limbah
+287,Kalimantan Timur,Institut Teknologi Kalimantan (ITK),S1,Teknik Kimia,111,55,0.4955,6.65625,TRUE,"Rp6,000,000",BAGUS,Konsultan Proyek Konstruksi
+288,Kalimantan Timur,Institut Teknologi Kalimantan (ITK),S1,Teknik Lingkungan,121,45,0.3719,6.65625,TRUE,"Rp5,500,000",BAGUS,Teknisi Sistem Otomasi
+289,Kalimantan Timur,Institut Teknologi Kalimantan (ITK),S1,Teknik Logistik,41,43,1.0488,6.65625,TRUE,"Rp5,500,000",BAGUS,Manajer Proyek Infrastruktur
+290,Kalimantan Timur,Institut Teknologi Kalimantan (ITK),S1,Teknik Material dan Metalurgi,77,41,0.5325,6.65625,TRUE,"Rp6,000,000",BAGUS,Peneliti Bencana Alam
+291,Kalimantan Timur,Institut Teknologi Kalimantan (ITK),S1,Teknologi Pangan,48,36,0.75,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pekerja di Lembaga Pemerintah
+292,Kalimantan Utara,Universitas Borneo Tarakan (UBT),S1,Teknik Elektro,74,32,0.4324,6.65625,TRUE,"Rp6,000,000",BAGUS,Konsultan Kebijakan Energi
+293,Kalimantan Utara,Universitas Borneo Tarakan (UBT),S1,Agroteknologi,64,32,0.5,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Ahli Mitigasi Bencana
+294,Kalimantan Utara,Universitas Borneo Tarakan (UBT),S1,Manajemen Sumber Daya Perairan,48,32,0.6667,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Pengawas Kualitas Lingkungan
+295,Sulawesi Utara,Universitas Sam Ratulangi (UNSRAT),S1,Teknik Mesin,73,43,0.589,6.65625,TRUE,"Rp6,000,000",BAGUS,Pengelola Sumber Daya Alam
+296,Sulawesi Utara,Universitas Sam Ratulangi (UNSRAT),S1,Teknik Elektro,89,58,0.6517,6.65625,TRUE,"Rp6,000,000",BAGUS,Dosen atau Pengajar
+297,Sulawesi Utara,Universitas Sam Ratulangi (UNSRAT),S1,Arsitektur,95,60,0.6316,6.65625,TRUE,"Rp6,000,000",BAGUS,Analis Data Geospasial
+298,Gorontalo,Universitas Negeri Gorontalo (UNG),S1,Pendidikan Fisika,44,75,1.7045,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Konsultan Geologi
+299,Gorontalo,Universitas Negeri Gorontalo (UNG),S1,Pendidikan Kimia,40,75,1.875,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Manajer Lingkungan
+300,Gorontalo,Universitas Negeri Gorontalo (UNG),S1,Pendidikan Biologi,65,60,0.923,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Teknisi Instrumentasi
+301,Sulawesi Tengah,Universitas Tadulako (UNTAD),S1,Pendidikan Fisika,44,75,1.705,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Teknisi Lingkungan
+302,Sulawesi Tengah,Universitas Tadulako (UNTAD),S1,Pendidikan Kimia,40,75,1.875,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Pengelola Kawasan Perkotaan
+303,Sulawesi Tengah,Universitas Tadulako (UNTAD),S1,Fisika,16,20,1.25,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Manajer Sumber Daya Alam
+304,Sulawesi Barat,Universitas Sulawesi Barat (UNSULBAR),S1,Matematika,14,17,1.2143,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Teknisi Pertanian
+305,Sulawesi Barat,Universitas Sulawesi Barat (UNSULBAR),S1,Pendidikan Fisika,14,14,1,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Konsultan Pengelolaan Air
+306,Sulawesi Barat,Universitas Sulawesi Barat (UNSULBAR),S1,Budidaya Perairan,16,16,1,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Peneliti Ekosistem Laut
+307,Sulawesi Selatan,Universitas Hasanuddin (UNHAS),S1,Matematika,131,60,0.458,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pengelola Hutan
+308,Sulawesi Selatan,Universitas Hasanuddin (UNHAS),S1,Fisika,67,63,0.9403,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pengawas Kesehatan Lingkungan
+309,Sulawesi Selatan,Universitas Hasanuddin (UNHAS),S1,Kimia,190,66,0.3474,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pengelola Kawasan Ekosistem
+310,Sulawesi Selatan,Universitas Negeri Makassar (UNM),S1,Fisika,44,15,0.3409,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pengelola Kehutanan
+311,Sulawesi Selatan,Universitas Negeri Makassar (UNM),S1,Biologi,174,45,0.2586,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Penyuluh Pertanian dan Kehutanan
+312,Sulawesi Tenggara,Universitas Halu Oleo,S1,Oseanografi,45,95,2.1111,6.65625,TRUE,"Rp5,500,000",BAGUS,Konsultan Hutan dan Kehutanan
+313,Sulawesi Tenggara,Universitas Halu Oleo,S1,Perikanan Tangkap,2,12,6,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Pengelola Ekowisata
+314,Sulawesi Tenggara,Universitas Halu Oleo,S1,Pendidikan Vokasional Teknik,2,18,9,6.65625,FALSE,"Rp4,500,000",KURANG BAGUS,Manajer Peneliti Kebijakan Lingkungan
+315,Sulawesi Tenggara,Universitas Halu Oleo,S1,Teknologi Hasil Perikanan,5,12,2.4,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Peneliti Perubahan Iklim
+316,Sulawesi Tenggara,Universitas Halu Oleo,S1,Ilmu Kelautan,11,18,1.636,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Analis Pengelolaan Keanekaragaman Hayati
+317,Sulawesi Tenggara,Universitas Halu Oleo,S1,Proteksi Tanaman,11,18,1.636,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Konsultan Pengelolaan Ekosistem
+318,Sulawesi Tenggara,Universitas Halu Oleo,S1,Manajemen Sumberdaya Perairan,12,18,1.5,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Spesialis Pengelolaan Kawasan Alam
+319,Sulawesi Tenggara,Universitas Halu Oleo,S1,Oseanografi,12,18,1.5,6.65625,TRUE,"Rp5,500,000",BAGUS,Manajer Proyek Konstruksi Berkelanjutan
+320,Sulawesi Tenggara,Universitas Halu Oleo,S1,Budidaya Perairan,13,18,1.3846,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Pengelola Ekosistem Pesisir
+321,Sulawesi Tenggara,Universitas Halu Oleo,S1,Teknik Kelautan,18,30,1.6667,6.65625,TRUE,"Rp6,000,000",BAGUS,Pekerja di Industri Pengelolaan Sumber Daya Alam
+322,Sulawesi Tenggara,Universitas Sembilanbelas November (USN) Kolaka,S1,Pendidikan Fisika,5,20,4,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Spesialis Manajemen Risiko Alam
+323,Maluku,Universitas Pattimura,S1,Tek. Hasil Pertanian,4,12,3,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Peneliti Teknologi Lingkungan
+324,Maluku,Universitas Pattimura,S1,Peternakan,2,12,6,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Analis Data Perubahan Iklim
+325,Maluku,Universitas Pattimura,S1,Manajemen Sumber Peraian,4,24,6,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Teknisi Lingkungan dan Energi
+326,Maluku,Universitas Pattimura,S1,Budidaya Perairan,3,20,6.667,6.65625,FALSE,"Rp4,500,000",KURANG BAGUS,Dosen di Bidang Sumber Daya Alam
+327,Maluku,Universitas Pattimura,S1,Tek.Hasil Perikanan,2,32,16,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Peneliti Perubahan Iklim dan Kehutanan
+328,Maluku,Universitas Pattimura,S1,pemanfataan SD Perikanan,8,40,5,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Pengelola Kawasan Hutan Lindung
+329,Maluku,Universitas Pattimura,S1,Fisika,6,20,3.333,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Manajer Infrastruktur Hijau
+332,Maluku,Universitas Pattimura,S1,Teknik Transportasi Laut,6,19,3.167,6.65625,TRUE,"Rp6,000,000",BAGUS,Spesialis Analisis Sumber Daya Alam
+333,Maluku,Universitas Pattimura,S1,Teknik Kimia,5,16,3.2,6.65625,TRUE,"Rp6,000,000",BAGUS,Konsultan Kualitas Udara
+334,Maluku,Universitas Pattimura,S1,Ilmu Lingkungan,1,8,8,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Pengelola Sistem Pengolahan Limbah
+335,Maluku,Universitas Pattimura,S1,Pengelola Hutan,1,8,8,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Teknisi Energi Terbarukan dan Efisiensi Energi
+339,Maluku,Politeknik Negeri Ambon,S1,Manajemen Proyek Konstruksi,19,36,1.895,6.65625,TRUE,"Rp6,000,000",BAGUS,Manajer Pembangunan Berkelanjutan
+340,Maluku,Politeknik Negeri Ambon,S1,Teknik Konstruksi Jalan dan Jembatan,19,36,1.895,6.65625,TRUE,"Rp5,500,000",BAGUS,Konsultan Pengelolaan Bencana Alam
+341,Maluku,Politeknik Negeri Ambon,S1,Teknologi Rekayasa Sistem Kelistrikan Minyak dan Gas,22,36,1.636,6.65625,TRUE,"Rp6,000,000",BAGUS,Pengelola Program Pemulihan Alam
+342,Maluku,Politeknik Negeri Ambon,S1,Teknologi Rekayasa Sistem Mekanikal Minyak dan Gas,21,36,1.714,6.65625,TRUE,"Rp6,000,000",BAGUS,Ahli Pengelolaan Hutan Tropis
+343,Maluku,Politeknik Negeri Ambon,D3,Teknik Mesin,22,36,1.636,6.65625,TRUE,"Rp6,750,000",BAGUS,Manajer Pengelolaan Keanekaragaman Hayati
+344,Maluku,Politeknik Negeri Ambon,D3,Teknik Listrik,2,24,12,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Peneliti Konservasi Alam
+345,Maluku,Politeknik Negeri Ambon,D3,Teknik Sipil,1,16,16,6.65625,FALSE,"Rp6,000,000",BAGUS,Konsultan Ekosistem Laut
+346,Maluku,Politeknik Perikanan Negeri Tual,S1,Teknologi Kelautan,3,12,4,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Analis Pemantauan Lingkungan
+347,Maluku,Politeknik Perikanan Negeri Tual,S1,Bioteknologi Perikanan,1,12,12,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Teknisi Sistem Air dan Energi
+348,Maluku,Politeknik Perikanan Negeri Tual,S1,Rekayasa Budidaya Laut,4,20,5,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Manajer Pengelolaan Air Bersih
+350,Maluku,Politeknik Perikanan Negeri Tual,D3,Teknologi Budidaya Perikanan,1,24,24,6.65625,FALSE,"Rp4,500,000",KURANG BAGUS,Pengelola Hutan dan Konservasi Alam
+351,Maluku,Politeknik Perikanan Negeri Tual,D3,Teknologi Penangkapan Ikan ,3,20,6.667,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Ahli Reklamasi Lahan
+352,Maluku,Politeknik Perikanan Negeri Tual,D3,Teknologi Hasil Perikanan,4,20,5,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Teknisi Infrastruktur Hijau
+354,Maluku,Politeknik Perikanan Negeri Tual,S1,Agrowisata Bahari ,1,24,24,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Pengelola Kawasan Ekosistem Laut
+355,Maluku,Politeknik Perikanan Negeri Tual,D3,Agribisnis Perikanan ,3,20,6.667,6.65625,FALSE,"Rp4,500,000",KURANG BAGUS,Konsultan Energi Terbarukan
+356,Maluku Utara,Universitas Khairun,S1,Teknik Mesin,30,70,2.333,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Peneliti Perikanan dan Ekosistem Laut
+357,Maluku Utara,Universitas Khairun,S1,Teknik elektro,24,84,3.5,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Pengelola Proyek Konservasi Alam
+358,Maluku Utara,Universitas Khairun,S1,Arsitektur,46,84,1.826,6.65625,TRUE,"Rp6,000,000",BAGUS,Manajer Kebijakan Energi Berkelanjutan
+359,Maluku Utara,Universitas Khairun,S1,Teknologi Pertanian,15,35,2.333,6.65625,TRUE,"Rp6,000,000",BAGUS,Konsultan Teknologi Hijau
+360,Maluku Utara,Universitas Khairun,S1,Peternakan,2,28,14,6.65625,FALSE,"Rp6,000,000",BAGUS,Peneliti Ekonomi Lingkungan
+361,Maluku Utara,Universitas Khairun,S1,Budidaya Perairan,7,28,4,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Ahli Analisis Lingkungan
+362,Maluku Utara,Universitas Khairun,S1,Pemanfaatan Sumberdaya Perairan,4,28,7,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Manajer Penelitian dan Pengembangan Lingkungan
+363,Maluku Utara,Universitas Khairun,S1,Ilmu Kelautan,19,28,1.4737,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pengelola Program Konservasi Alam
+364,Maluku Utara,Universitas Khairun,S1,Manajemen Sumberdaya Perairan,14,42,3,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Teknisi Lingkungan dan Infrastruktur Hijau
+365,Maluku Utara,Universitas Khairun,S1,Pendidikan Matematika,42,56,1.3333,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Analis Sumber Daya Alam
+366,Maluku Utara,Universitas Khairun,S1,Pendidikan Biologi,48,70,1.4583,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pengelola Proyek Kehutanan Berkelanjutan
+367,Maluku Utara,Universitas Khairun,S1,Pendidikan Fisika,30,35,1.1667,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Manajer Proyek Energi Terbarukan
+368,Maluku Utara,Universitas Khairun,S1,Pendidikan Kimia,28,56,2,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Teknisi Sistem Air dan Energi
+369,Maluku Utara,Universitas Khairun,S1,Agroteknologi,6,35,5.8333,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pengelola Kawasan Alam dan Ekosistem Laut
+370,Maluku Utara,Universitas Khairun,S1,Kehutanan,36,49,1.3611,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pengelola Hutan Produksi Berkelanjutan
+371,Maluku Utara,Universitas Khairun,S1,Agribisnis,32,56,1.75,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Dosen Pengelolaan Sumber Daya Alam
+372,Maluku Utara,Universitas Khairun,S1,Ilmu Tanah,8,35,4.375,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Peneliti Sistem Energi Terbarukan
+374,Papua,Universitas Cenderawasih,S1,Matematika,8,28,3.5,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Teknisi Sistem Pengolahan Air Bersih
+375,Papua,Universitas Cenderawasih,S1,Kimia,4,20,5,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pengelola Program Sumber Daya Alam
+376,Papua,Universitas Cenderawasih,S1,Fisika,3,20,6.6667,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Peneliti Sistem Pengelolaan Hutan
+377,Papua,Universitas Cenderawasih,S1,Pendidikan Kimia,9,48,5.3333,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Spesialis Energi Terbarukan dan Pengelolaan Lingkungan
+378,Papua,Universitas Cenderawasih,S1,Ilmu Kelautan,16,28,1.75,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Analis Pengelolaan Sumber Daya Alam
+379,Papua,Universitas Cenderawasih,S1,Teknik Mesin,17,36,2.1176,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Teknisi Pemeliharaan Energi dan Lingkungan
+380,Papua,Universitas Cenderawasih,S1,Teknik Geofisika,7,28,4,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Manajer Penanganan Limbah dan Daur Ulang
+381,Papua,Universitas Cenderawasih,S1,Perencanaan Wilayah dan Kota,15,36,2.4,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Konsultan Pengelolaan Pengurangan Sampah
+382,Papua,Universitas Cenderawasih,S1,Ilmu Perikanan,6,28,4.6667,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pengelola Program Pembangunan Berkelanjutan
+383,Papua,Universitas Cenderawasih,S1,Statistika,14,28,2,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Teknisi Sistem Konservasi Alam
+384,Papua,Universitas Cenderawasih,S1,Teknik Geologi,27,36,1.3333,6.65625,TRUE,"Rp6,000,000",BAGUS,Ahli Pemulihan Ekosistem Laut
+385,Papua,Universitas Cenderawasih,S1,Teknologi Pangan,6,36,6,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Manajer Pengelolaan Hutan Tropis
+386,Papua,Universitas Cenderawasih,S1,Sosiologi,12,56,4.6667,6.65625,TRUE,"Rp6,000,000",BAGUS,Pengelola Infrastruktur Lingkungan
+387,Papua,Universitas Cenderawasih,S1,Pendidikan Jasmani Kesehatan Rekresi,13,70,5.3846,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Spesialis Rehabilitasi Hutan
+388,Papua,Universitas Cenderawasih,S1,PG PAUD,23,70,3.0435,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pengelola Kebijakan Pengelolaan Sumber Daya Alam
+389,Papua,Universitas Cenderawasih,S1,Ilmu perpustakaan,3,56,18.6667,6.65625,FALSE,"Rp4,500,000",KURANG BAGUS,Peneliti Dampak Lingkungan Industri
+390,Papua,Universitas Cenderawasih,S1,Manajemen Pendidikan,12,70,5.8333,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Teknisi Pengolahan Limbah Industri
+391,Papua Barat,Universitas Papua,S1,Teknologi Hasil Pertanian,9,84,9.3333,6.65625,FALSE,"Rp4,500,000",KURANG BAGUS,Analis Pengelolaan Pengurangan Risiko Bencana
+392,Papua Barat,Universitas Papua,S1,Manajemen Sumberdaya Perairan,7,84,12,6.65625,FALSE,"Rp4,500,000",KURANG BAGUS,Manajer Energi Terbarukan dan Berkelanjutan
+393,Papua Barat,Universitas Papua,S1,Ilmu Kelautan,11,84,7.6364,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Spesialis Manajemen Sumber Daya Alam
+394,Papua Barat,Universitas Papua,S1,Matematika,8,84,10.5,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Pengelola Kebijakan Energi dan Lingkungan
+395,Papua Barat,Universitas Papua,S1,Fisika,1,84,84,6.65625,FALSE,"Rp4,500,000",KURANG BAGUS,Teknisi Kualitas Udara dan Lingkungan
+396,Papua Barat,Universitas Papua,S1,Biologi,6,84,14,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Peneliti Pengelolaan Sumber Daya Alam Berkelanjutan
+397,Papua Barat,Universitas Papua,S1,Kimia,8,84,10.5,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Pengelola Kawasan Alam dan Konservasi
+398,Papua Barat,Universitas Papua,S1,Agribisnis,12,84,7,6.65625,FALSE,"Rp4,500,000",KURANG BAGUS,Konsultan Pengelolaan Limbah dan Energi
+399,Papua Barat,Universitas Papua,S1,Agroteknologi,9,84,9.3333,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Teknisi Sistem Energi dan Lingkungan
+400,Papua Barat,Universitas Papua,S1,Peternakan,4,84,21,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Pengelola Proyek Infrastruktur Hijau
+401,Papua Barat,Universitas Papua,S1,Kehutanan,40,84,2.1,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Spesialis Pengelolaan Air Bersih dan Limbah
+402,Papua Barat,Universitas Papua,S1,Teknik Pertambangan,59,84,1.424,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Manajer Konservasi Sumber Daya Alam
+403,Papua Barat,Universitas Papua,S1,Teknik Elektro,9,84,9.333,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Ahli Pengelolaan Ekosistem Laut dan Pesisir
+404,Papua Barat,Universitas Papua,S1,Pendidikan Biologi,20,84,4.2,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pengelola Kebijakan Lingkungan dan Energi
+405,Papua Barat,Universitas Papua,S1,Pendidikan Matematika,12,84,7,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Konsultan Pengelolaan Limbah Industri
+406,Papua Barat,Universitas Papua,S1,Pendidikan Kimia,5,84,16.8,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Peneliti Teknologi Hijau dan Energi Terbarukan
+407,Papua Barat,Universitas Papua,S1,Teknik Geologi,13,84,6.462,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Analis Pengelolaan Sumber Daya Alam Berkelanjutan
+408,Papua Barat,Universitas Papua,S1,Pendidikan Fisika,2,84,42,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Ilmuwan
+411,Papua Barat,Universitas Papua,S1,Teknik Pertanian dan Biosistem,7,84,12,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Ahli Meteorologi Klimatologi
+412,Papua Barat,Universitas Papua,S1,Teknik Sipil,51,84,1.647,6.65625,TRUE,"Rp6,000,000",BAGUS,Pengajar Guru Dosen
+417,Papua Barat,Universitas Papua,D3,Teknik Perminyakan dan Gas Bumi,29,56,1.931,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Field Engineer
+418,Papua Barat,Universitas Papua,D3,Kesehatan Hewan,17,56,3.294,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Industri Pertanian Modern
+419,Papua Barat,Universitas Papua,D3,Teknik Komputer,43,56,1.302,6.65625,TRUE,"Rp4,500,000",KURANG BAGUS,Peneliti dan Akademisi
+420,Papua Barat,Universitas Papua,D3,Manajemen Hutan Alam Produksi,6,56,9.333,6.65625,FALSE,"Rp4,500,000",KURANG BAGUS,Konsultan Agriteknologi
+421,Papua Barat,Universitas Papua,D3,Teknik Listrik,2,56,28,6.65625,FALSE,"Rp4,500,000",KURANG BAGUS,Manajer Proyek
+422,Papua Barat,Universitas Papua,D3,Teknologi Geologi Terapan,5,56,11.2,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Engineer
+423,Papua Barat,Universitas Papua,D3,Budidaya Tanaman Pangan,1,56,56,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Konsultan Teknis
+424,Papua Barat,Universitas Papua,D3,Budidaya Hutan,7,56,8,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Kontraktor
+425,Papua Barat,Universitas Papua,D3,Konservasi Sumberdaya Hutan,3,56,18.667,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Petroleum Engineer
+426,Papua Barat,Universitas Papua,D3,Budidaya Perikanan,3,56,18.667,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Ahli Geologi
+427,Papua Barat,Universitas Papua,D3,Budidaya Tanaman Perkebunan,3,56,18.667,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Ahli Geofisika
+428,Papua Barat,Universitas Papua,D3,Budidaya Ternak,1,56,56,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Insinyur Pengeboran
+429,Papua Barat,Politeknik Negeri FakFak,S1,Teknologi Rekayasa Kontruksi Jalan dan Jembatan,16,48,3,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Well-log Analyst
+430,Papua Barat,Politeknik Negeri FakFak,D3,Teknik Listrik,10,48,4.8,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pegawai di Perusahaan Minyak dan Gas
+431,Papua Barat,Politeknik Negeri FakFak,D3,Teknik Sipil,21,96,4.571,6.65625,TRUE,"Rp6,000,000",BAGUS,Paramedik Veteriner
+432,Papua Barat,Politeknik Negeri FakFak,D3,Agro Industri,10,72,7.2,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Teknisi Klinik Hewan
+433,Papua Barat,Politeknik Negeri FakFak,D3,Teknik Perawatan dan Perbaikan Mesin,10,72,7.2,6.65625,FALSE,"Rp5,000,000",KURANG BAGUS,Insinyur Perangkat Lunak
+434,Papua Selatan,Universitas Musamus Merauke,S1,Teknik Elektro,20,42,2.1,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Administrator Jaringan
+435,Papua Selatan,Universitas Musamus Merauke,S1,Teknik Mesin,25,42,1.68,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Analis Keamanan
+436,Papua Selatan,Universitas Musamus Merauke,S1,Arsitektur,31,42,1.355,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Manajer Proyek IT
+437,Papua Selatan,Universitas Musamus Merauke,S1,Keteknikan Pertanian,22,42,1.909,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pengembang Perangkat Keras
+438,Papua Selatan,Universitas Musamus Merauke,S1,Agribisnis,33,49,1.485,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pegawai di Instansi Pemerintah atau Swasta
+439,Papua Selatan,Universitas Musamus Merauke,S1,Agroteknologi,18,44,2.444,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pegawai Kementerian Kehutanan
+440,Papua Selatan,Universitas Musamus Merauke,S1,Peternakan,8,28,3.5,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Peneliti Hutan
+441,Papua Selatan,Universitas Musamus Merauke,S1,Manajemen Sumberdaya Perairan,9,28,3.111,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Konsultan Kehutanan
+442,Papua Selatan,Universitas Musamus Merauke,S1,Pendidikan Matematika ,17,21,1.235,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Engineer Tenaga Listrik
+443,Papua Selatan,Universitas Musamus Merauke,S1,Pendidikan Fisika ,6,21,3.5,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Project Engineer
+444,Papua Selatan,Universitas Musamus Merauke,S1,Pendidikan Kimia,9,21,2.333,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Konsultan Geoteknik
+445,Papua Selatan,Universitas Musamus Merauke,S1,Pendidikan Komputer,32,42,1.313,6.65625,TRUE,"Rp5,000,000",KURANG BAGUS,Pengembang Media pembelajaran digital
